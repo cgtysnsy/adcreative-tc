@@ -25,6 +25,7 @@ const DataFetcher: React.FC = () => {
         // saveCharacters(rawData);
       } catch (error: any) {
         setError(error.message);
+        console.log(error);
       } finally {
         setIsLoading(false);
       }
