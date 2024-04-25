@@ -15,13 +15,18 @@ Gereksinimler:
 - [x] Exception handling ve error statelerinin arayuzde gosterilmesi
 - [:)]Ve tabi ki yazdiginiz kodun mimarisi, temiz ve okunakli olmasi belki de en onemli kriter olacaktir.
 
+Ayrıca:
+
+- [x] "Virtual table" kullanılarak render maliyeti azaltılmıştır.
+- [x] State yönetimi Context-Api ile yapılmıştır.
+- [x] Tasarım için Tailwind ve Shadcn kullanılmıştır.
+
 ## Yükleme
 
 Adımlar:
 
 1. Repoyu klonla.
-   ` 
-`https://github.com/cgtysnsy/adcreative-tc.git
+   https://github.com/cgtysnsy/adcreative-tc.git
 2. Gerekli değşkenleri yükle.
 
 ```
